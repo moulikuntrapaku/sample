@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React in 30 days
+          Learn React in 30 days with Mouli
         </a>
       </header>
     </div>
